@@ -1,23 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T21:03:55.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0XjrFSzam2lqF3auGLey" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T21:07:39.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="IgLqmV4zKtSkOJ047GDE" version="20.8.21" type="github">
   <diagram name="Page-1" id="1Ligohr2cej8hs2GUoNR">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-1" value="Front End" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-5" value="Client-Side" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-2" value="Back End" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-6" value="Server-Side" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qydwDtp_kcCnWJ8ia-RJ-1" target="qydwDtp_kcCnWJ8ia-RJ-2">
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-7" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="qydwDtp_kcCnWJ8ia-RJ-8" target="qydwDtp_kcCnWJ8ia-RJ-6" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
+            <mxPoint x="400" y="180" as="sourcePoint" />
+            <mxPoint x="450" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-4" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-10" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qydwDtp_kcCnWJ8ia-RJ-5" target="qydwDtp_kcCnWJ8ia-RJ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="80" as="sourcePoint" />
+            <mxPoint x="680" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-8" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-11" value="CSS, HTML, JS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-12" value=".Net" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-13" value="AWS S3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qydwDtp_kcCnWJ8ia-RJ-14" value="Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
