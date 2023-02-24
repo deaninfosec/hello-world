@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T22:41:18.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="c451Isd-uKZmmXWOs-VF" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-24T22:42:01.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7FaNM6PqmGEwAox_gEuX" version="20.8.23" type="github" pages="2">
   <diagram name="Page-1" id="1Ligohr2cej8hs2GUoNR">
     <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,14 +158,14 @@
         <mxCell id="Ef2MTb6XZk67iI0vQ1hB-6" value="&lt;b&gt;DATABASE&lt;/b&gt;&lt;br&gt;&lt;br&gt;(POSTGRESQL)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ef2MTb6XZk67iI0vQ1hB-7" value="AWS S3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="Ef2MTb6XZk67iI0vQ1hB-7" value="WINDOWS SERVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ef2MTb6XZk67iI0vQ1hB-8" value="MEDIA STORAGE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ef2MTb6XZk67iI0vQ1hB-9" value="DIGITAL OCEAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="320" width="110" height="30" as="geometry" />
+        <mxCell id="Ef2MTb6XZk67iI0vQ1hB-9" value="WINDOWS SERVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="320" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ef2MTb6XZk67iI0vQ1hB-10" value="&lt;i&gt;Model&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="520" width="50" height="30" as="geometry" />
