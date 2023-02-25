@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T19:21:31.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HQ0hEOHiJ2gsWQ38MbNV" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-25T19:28:51.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5RtKu3LfeCC-oB5-CBLt" version="20.8.23" type="github" pages="4">
   <diagram name="Page-1" id="1Ligohr2cej8hs2GUoNR">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -343,13 +343,13 @@
         <mxCell id="YlzJSqYZJJexGHbphHQT-1" value="ORGANIZATION SETUP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="305" y="120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e4yGisADaLpt6MpsdTKc-1" value="ORGANIZATION SETUP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="e4yGisADaLpt6MpsdTKc-1" value="ROLES AND PRIVILEGE PERMISSION" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e4yGisADaLpt6MpsdTKc-2" value="ORGANIZATION SETUP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="e4yGisADaLpt6MpsdTKc-2" value="EMPLOYEE MANAGEMENT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="450" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e4yGisADaLpt6MpsdTKc-3" value="ORGANIZATION SETUP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="e4yGisADaLpt6MpsdTKc-3" value="APPROVAL WORKFLOWS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
